@@ -1,2 +1,2 @@
-# update_catcher
+# Update Catcher
 This robot catches updates from the Aptos discord
