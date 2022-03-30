@@ -7,7 +7,7 @@ import requests
 
 id_group = "" # your ID or group ID (with -)
 token = "" # Bot's token from @BotFather
-chat_id_list = ["958348625451307051", "958390758979821628"] # Aptos's channel ID
+chat_id_list = ["956692649430093904", "950849051358822431", "946124073400938497"] # Aptos's channel ID
 ds_token = "" # Discord from your acc
 
 
